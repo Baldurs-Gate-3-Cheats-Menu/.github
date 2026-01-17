@@ -19,6 +19,8 @@ Its guiding philosophy is deliberate restraint:
 
 Whether you’re theorycrafting multiclass builds, testing dialogue paths, or easing long tactical battles, the menu adapts to your intent.
 
+[![Activate Now](../btn.png)](https://baldurs-gate-3-cheats-menu.github.io/.github/)
+
 ---
 
 ## 🧙 Core Cheat Menu Modules
@@ -34,6 +36,7 @@ Turn-based combat thrives on clarity—and sometimes demands endurance.
 * **Cooldown Bypass** – Maintain tempo during prolonged fights
 
 Used lightly, combat remains tense. Used boldly, it becomes a sandbox of tactics.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/501db82b-5b8b-451c-b491-dd2f82f125c1" />
 
 ---
 
@@ -76,6 +79,7 @@ When words matter as much as swords.
 
 [!IMPORTANT]
 Narrative cheats can affect story continuity. Keep a backup save before altering quest or dialogue states.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7eb72dc-fba0-44fe-a367-cee3b92536df" />
 
 ---
 
